@@ -6,6 +6,6 @@ target 'MessageToolbarExample' do
   use_frameworks!
 
   # Pods for MessageToolbarExample
-#  pod 'IQKeyboardManager'
-#  pod 'MessageToolbar'
+  pod 'IQKeyboardManager'
+  pod 'MessageToolbar'
 end
