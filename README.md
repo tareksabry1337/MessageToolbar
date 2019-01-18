@@ -12,6 +12,11 @@ In short, it exposes certain protocol methods which delivers the data input from
 
 If you end up using MessageToolbar in production, I'd love to hear from you. You can reach me through [email](mailto:tareksabry444@outlook.com)
 
+## Preview
+| Component Preview | Send Messages | Message Sent | Photo Sent | Voice Record |
+| --- | --- | --- | --- | --- |
+| ![preview](media/preview.png) | ![send_message](media/send_message.png) | ![message_sent](media/message_sent.png) | ![message_sent](media/photo_sent.png) | ![voice_record](media/voice_record.png) |
+
 ## Installation
 
 ### CocoaPods
