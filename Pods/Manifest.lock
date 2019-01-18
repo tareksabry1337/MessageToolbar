@@ -1,0 +1,16 @@
+PODS:
+  - Shimmer (1.0.2)
+
+DEPENDENCIES:
+  - Shimmer
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Shimmer
+
+SPEC CHECKSUMS:
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+
+PODFILE CHECKSUM: 59d6998b08fb168b085408939bace26fbce4d162
+
+COCOAPODS: 1.5.2

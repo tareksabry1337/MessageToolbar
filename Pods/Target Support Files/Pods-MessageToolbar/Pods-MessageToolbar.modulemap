@@ -1,0 +1,6 @@
+framework module Pods_MessageToolbar {
+  umbrella header "Pods-MessageToolbar-umbrella.h"
+
+  export *
+  module * { export * }
+}
